@@ -15,3 +15,5 @@ def inserir():
             print(error2)
         except TypeError as error3:
             print(error3)
+
+inserir()
